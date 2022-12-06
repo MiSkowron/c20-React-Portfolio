@@ -18,31 +18,31 @@ function Project() {
 
                 <div>
                     <a href="https://springbot-game.herokuapp.com/">
-                        <img id="example" src="./assets/springbot.png"
+                        <img id="example" src="public\springbot.png"
                             alt="example 2" /></a>
                 </div>
 
                 <div>
                     <a href="#">
-                        <img id="example" src="assets/coming-soon-placeholder-image.gif"
+                        <img id="example" src="public/coming-soon-placeholder-image.gif"
                             alt="example 3" /></a>
                 </div>
 
                 <div>
                     <a href="#">
-                        <img id="example" src="assets/coming-soon-placeholder-image.gif"
+                        <img id="example" src="public/coming-soon-placeholder-image.gif"
                             alt="example 4" /></a>
                 </div>
 
                 <div>
                     <a href="#">
-                        <img id="example" src="assets/coming-soon-placeholder-image.gif"
+                        <img id="example" src="public/coming-soon-placeholder-image.gif"
                             alt="example 5" /></a>
                 </div>
 
                 <div>
                     <a href="#">
-                        <img id="example" src="assets/coming-soon-placeholder-image.gif"
+                        <img id="example" src="public/coming-soon-placeholder-image.gif"
                             alt="example 6" /></a>
                 </div>
 
