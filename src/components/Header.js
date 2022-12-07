@@ -6,7 +6,7 @@ function Header() {
             <intro>
                 <div>
                     <a href="https://miskowron.github.io/Mini-Project-wk2/">
-                        <img id="intro" src="public/csscheatsheet.jpg"
+                        <img id="intro" src="./public/csscheatsheet.jpg"
                             alt="demo" /></a>
                 </div>
             </intro>
@@ -15,7 +15,7 @@ function Header() {
                 <h1> <a id="aboutme">About Me</a></h1>
             </about>
             <div>
-                <img id="profile" src="public\248351710_5117795504902490_7657565064064748629_n.jpg"
+                <img id="profile" src="/public/profile.jpg"
                     alt="Profile Picture" />
             </div>
             <content>
